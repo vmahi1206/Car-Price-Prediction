@@ -108,3 +108,13 @@ Author
 Mahesh V
 B. Tech - Computer Science and Engineering (Data Science)
 Machine Learning | Data Analytics | Python | SQL
+
+Live Demo
+
+Streamlit App:
+https://car-price-prediction-gcujpkwghqrtghpdenettn.streamlit.app/
+
+GitHub Repository
+
+Repository:
+https://github.com/vmahi1206/Car-Price-Prediction
